@@ -29,7 +29,7 @@
   },
   "homepage": "http://schema-inspector.github.io/schema-inspector/",
   "dependencies": {
-    "async": "~2.6.3"
+    "async": "~3.2.4"
   },
   "devDependencies": {
     "mocha": "^8.3.2",
